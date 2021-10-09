@@ -1,0 +1,17 @@
+{
+  "name": "pptx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "base64-stream": "^1.0.0",
+    "node-fetch": "^3.0.0",
+    "pptxgenjs": "^2.6.0",
+    "yargs": "^17.1.1"
+  }
+}
