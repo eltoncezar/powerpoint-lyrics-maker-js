@@ -1,4 +1,4 @@
-# powerpoint-lyrics-maker-js
+# Powerpoint Lyrics Maker
 Tired of creating boring presentations for your songs? Me too!
 
 Just type in your lyrics or copy paste them from somewhere else, and get awesome presentations like this one:
