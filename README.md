@@ -8,4 +8,4 @@ Just type in your lyrics or copy paste them from somewhere else, and get awesome
 # Usage
 Just pass the `--help` argument to the command line to see the usage and available options:
 
-![image](https://user-images.githubusercontent.com/2071672/136639446-cdbea9bb-6877-43ed-8d30-db1bc67f5bca.png)
+![image](https://user-images.githubusercontent.com/2071672/147885666-27884c38-7e08-4983-9103-f83fdc701bc2.png)
